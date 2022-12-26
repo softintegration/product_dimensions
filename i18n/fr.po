@@ -1,0 +1,57 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* product_dimensions
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 15.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-26 13:03+0000\n"
+"PO-Revision-Date: 2022-12-26 13:03+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: product_dimensions
+#: model:ir.model.fields,field_description:product_dimensions.field_product_product__height
+#: model:ir.model.fields,field_description:product_dimensions.field_product_template__height
+msgid "Height"
+msgstr "Hauteur"
+
+#. module: product_dimensions
+#: model:ir.model.fields,field_description:product_dimensions.field_product_product__height_uom_id
+#: model:ir.model.fields,field_description:product_dimensions.field_product_template__height_uom_id
+msgid "Height Unit of Measure"
+msgstr "UdM.Hauteur"
+
+#. module: product_dimensions
+#: model:ir.model,name:product_dimensions.model_product_template
+msgid "Product Template"
+msgstr "Modèle d'article"
+
+#. module: product_dimensions
+#: model:ir.model.fields,field_description:product_dimensions.field_product_product__thickness
+#: model:ir.model.fields,field_description:product_dimensions.field_product_template__thickness
+msgid "Thickness"
+msgstr "Épaisseur"
+
+#. module: product_dimensions
+#: model:ir.model.fields,field_description:product_dimensions.field_product_product__thickness_uom_id
+#: model:ir.model.fields,field_description:product_dimensions.field_product_template__thickness_uom_id
+msgid "Thickness Unit of Measure"
+msgstr "UdM.Épaisseur"
+
+#. module: product_dimensions
+#: model:ir.model.fields,field_description:product_dimensions.field_product_product__width
+#: model:ir.model.fields,field_description:product_dimensions.field_product_template__width
+msgid "Width"
+msgstr "Largeur"
+
+#. module: product_dimensions
+#: model:ir.model.fields,field_description:product_dimensions.field_product_product__width_uom_id
+#: model:ir.model.fields,field_description:product_dimensions.field_product_template__width_uom_id
+msgid "Width unit of Measure"
+msgstr "UdM.Largeur"
